@@ -6,3 +6,5 @@
 - 
 ### ➯  WAHA
 - https://cdn.jsdelivr.net/gh/RamonVeredic/icon@main/WAHA/favicon.svg
+
+ https://cdn.jsdelivr.net/gh/RamonVeredic/icon@main/LINNMS/original.png
