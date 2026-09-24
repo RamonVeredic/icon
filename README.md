@@ -7,4 +7,6 @@
 ### ➯  WAHA
 - https://cdn.jsdelivr.net/gh/RamonVeredic/icon@main/WAHA/favicon.svg
 
- https://cdn.jsdelivr.net/gh/RamonVeredic/icon@main/LINNMS/original.png
+### ➯ LINNMS
+- https://cdn.jsdelivr.net/gh/RamonVeredic/icon@main/LINNMS/original.png
+- https://cdn.jsdelivr.net/gh/RamonVeredic/icon@main/LINNMS/LINNMS_icon.ico
