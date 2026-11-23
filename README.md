@@ -10,3 +10,6 @@
 ### ➯ LINNMS
 - https://cdn.jsdelivr.net/gh/RamonVeredic/icon@main/LINNMS/original.png
 - https://cdn.jsdelivr.net/gh/RamonVeredic/icon@main/LINNMS/LINNMS_icon.ico
+
+### ➯ LINNMS
+- https://cdn.jsdelivr.net/gh/RamonVeredic/icon@main/Technitium/technitium-dns.png
